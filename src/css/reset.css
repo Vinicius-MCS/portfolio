@@ -5,3 +5,12 @@
     outline: none;
     box-sizing: border-box;
 }
+
+a {
+    color: var(--cor-branca);
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
+}
