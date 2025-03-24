@@ -1,6 +1,7 @@
 :root {
-    --cor-primaria: #43bd8e;
-    --cor-secundaria: #FD6C22;  
+    --cor-primaria: #e57128;
+    --cor-secundaria: #f2986b;  
+    --cor-terciaria: hsl(15, 83%, 79%);
     --cor-branca: #fff;
     --cor-fundo-escuro: #040203;
     --cor-fundo-cinza-escuro: #282828;
