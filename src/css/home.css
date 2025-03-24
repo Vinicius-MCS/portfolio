@@ -30,7 +30,7 @@
 }
 .home .text-home h1, .home .text-home h2 {
     font-family: var(--fonte-secundaria);
-    font-size: 4rem;
+    font-size: var(--fonte-gigante);
 }
 
 .home .text-home h1 {
