@@ -67,7 +67,7 @@ body {
 }
 
 .section {
-  padding: 2rem 0;
+  padding: 2rem 0 3rem;
 }
 
 .section-title {
@@ -76,7 +76,6 @@ body {
   max-width: 100%;
   padding: 2rem 0;
   color: var(--cor-primaria);
-  text-shadow: 1px 1px 3rem var(--cor-secundaria);
 }
 
 .section-title h2 {
