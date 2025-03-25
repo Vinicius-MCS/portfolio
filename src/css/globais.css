@@ -20,7 +20,7 @@ body {
   scroll-behavior: smooth;
 }
 
-section:not(:first-of-type), header {
+section:not(:first-of-type), header, footer {
   scroll-snap-align: start;
 }
 

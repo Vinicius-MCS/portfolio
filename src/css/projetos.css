@@ -3,7 +3,7 @@
     grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
     margin: 2.5rem auto 0;
     grid-gap: 3rem;
-    max-width: 1300px;
+    max-width: 1400px;
 }
 
 .projetos {
@@ -14,6 +14,11 @@
 @media (max-width: 1280px) {
     .projetos .container-projetos {
         padding: 0 var(--mobile-padding);
+        max-width: 100rem;
+    }
+
+    .projetos {
+        height: auto;
     }
 }
 
